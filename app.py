@@ -18,7 +18,7 @@ app.config['CELERY_RESULT_BACKEND'] = 'redis://localhost:6379/0'
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
 app.config['MAIL_USERNAME'] = 'aryankhannachd@gmail.com'
-app.config['MAIL_PASSWORD'] = 'lovv haai mten edfp'
+app.config['MAIL_PASSWORD'] = ''
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
